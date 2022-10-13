@@ -2,9 +2,13 @@ team: Leopards
 
 
 manager: Luke
+<<<<<<< HEAD
 
 
 coach: Oscars
+=======
+coach: Melissa
+>>>>>>> conflict-1
 
 
 members:

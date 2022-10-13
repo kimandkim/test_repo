@@ -1,7 +1,11 @@
 team: Tigers
 
 
+<<<<<<< HEAD
 manager: Donalds
+=======
+manager: Deborah
+>>>>>>> conflict-1
 
 
 members:
